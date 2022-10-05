@@ -1,7 +1,7 @@
 package lt.jevgenij.demo;
 
 public class TestA {
-    public void sayHelloInLt(){
+    public static void sayHelloInLt(){
         System.out.println("Sviekas pasauli");
     }
 }
